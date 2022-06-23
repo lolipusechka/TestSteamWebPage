@@ -1,0 +1,13 @@
+{
+        "windows_size": [ {
+                "width": 1280,
+                "height": 720
+        }
+        ],
+
+        "timeOutInSeconds": 10,
+
+        "pauseInMilliSeconds": 1500,
+
+        "language": "en"
+}
