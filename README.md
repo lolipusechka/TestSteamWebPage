@@ -1,2 +1,2 @@
-#Testing "Steam" Web Page
-Using Selenium, TestNG
+# Testing "Steam" Web Page
+> Using Selenium and TestNG
